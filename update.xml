@@ -7,10 +7,10 @@
   (SheetSetViewer.csproj <Version> at build time), and <url> must point at that exact installer
   asset on this repo's Releases page.
 
-  Current state: v1.1.1 is LIVE (2026-09-15). GitHub latest metadata confirms the
+  Current state: v1.1.2 is LIVE (2026-10-07). GitHub latest metadata confirms the
   SheetSetViewer-Setup.exe asset. Unauthenticated HEAD returned 200 and Content-Length
-  54766834; the full public download also matched the tested installer's byte size and
-  SHA-256 88814e1b0418974137794f7ce53d6a0b273c2a1cf0429ecb70a71a4d970bb35b.
+  54770335; the full public download also matched the tested installer's byte size and
+  SHA-256 1dc68bec37f4a9cf2f7cbb919109d6054a0cc2951832fbd8d191cf802b751a9b.
   These checks completed before updating the version below. A previous release needed
   several minutes for download propagation; metadata alone is not sufficient proof.
 
@@ -18,14 +18,14 @@
   protect/installer/SheetSetViewer.iss) from day one, so both this file and the website's download
   button can always use GitHub's version-independent "latest" permalink instead of a per-release
   URL:
-      https://github.com/JohnBoek/SheetSetViewer-releases/releases/latest/download/SheetSetViewer-Setup.exe
+      https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/releases/latest/download/SheetSetViewer-Setup.exe
   Note: GitHub release tags have had inconsistent casing on other Boek Solutions products in the
   past (e.g. lowercase "v1.1.0" vs capital "V1.1.1") — always verify the actual tag via the GitHub
   API before wiring a per-version URL, don't assume a casing convention holds.
 -->
 <item>
-    <version>1.1.1</version>
-    <url>https://github.com/JohnBoek/SheetSetViewer-releases/releases/latest/download/SheetSetViewer-Setup.exe</url>
-    <changelog>https://github.com/JohnBoek/SheetSetViewer-releases/blob/main/CHANGELOG.md</changelog>
+    <version>1.1.2</version>
+    <url>https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/releases/latest/download/SheetSetViewer-Setup.exe</url>
+    <changelog>https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/blob/main/CHANGELOG.md</changelog>
     <mandatory>false</mandatory>
 </item>
