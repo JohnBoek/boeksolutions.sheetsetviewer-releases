@@ -7,10 +7,10 @@
   (SheetSetViewer.csproj <Version> at build time), and <url> must point at that exact installer
   asset on this repo's Releases page.
 
-  Current state: v1.1.2 is LIVE (2026-10-07). GitHub latest metadata confirms the
+  Current state: v1.1.3 is LIVE (2026-10-07). GitHub latest metadata confirms the
   SheetSetViewer-Setup.exe asset. Unauthenticated HEAD returned 200 and Content-Length
-  54770335; the full public download also matched the tested installer's byte size and
-  SHA-256 1dc68bec37f4a9cf2f7cbb919109d6054a0cc2951832fbd8d191cf802b751a9b.
+  54768844; the full public download also matched the tested installer's byte size and
+  SHA-256 3846b8d5d683ef9fb4e8faa6e72a303dd4d8e39e2e1386d0d88c4d9adcea0793.
   These checks completed before updating the version below. A previous release needed
   several minutes for download propagation; metadata alone is not sufficient proof.
 
@@ -24,7 +24,7 @@
   API before wiring a per-version URL, don't assume a casing convention holds.
 -->
 <item>
-    <version>1.1.2</version>
+    <version>1.1.3</version>
     <url>https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/releases/latest/download/SheetSetViewer-Setup.exe</url>
     <changelog>https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/blob/main/CHANGELOG.md</changelog>
     <mandatory>false</mandatory>
