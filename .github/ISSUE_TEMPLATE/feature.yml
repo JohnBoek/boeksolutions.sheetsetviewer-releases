@@ -1,0 +1,15 @@
+name: Verbetering voorstellen
+description: Beschrijf de behoefte en het gewenste resultaat.
+body:
+  - type: textarea
+    id: problem
+    attributes:
+      label: Welk probleem wil je oplossen?
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Wat zou een bruikbaar resultaat zijn?
+    validations:
+      required: true

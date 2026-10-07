@@ -1,5 +1,16 @@
 # Changelog
 
+## v1.1.2 (2026-10-07)
+
+- Improved: installs for all Windows users in Program Files with administrator rights and shared shortcuts. Existing per-user installations receive clear migration guidance; settings and licenses are retained.
+- Improved: the optional desktop shortcut is selected by default for new installations.
+- Fixed: translations across all ten languages, including consistent sheet set and file terminology, spelling and clearer error messages.
+- Fixed: property headings and license information follow the selected language immediately; license expiry dates use that language's date format.
+- Fixed: unlicensed, expired trial and invalid license states now have distinct, accurate labels.
+- Improved: new installations default to English while existing language choices are retained.
+- Improved: native error messages follow the application language and theme, with localized support-email subjects.
+- Improved: adopted the updated BoekSolutions GitHub issue, pull request and release templates.
+
 ## v1.1.1 (2026-09-15)
 
 - Improved: options now have one clear place under Tools, and the license indicator opens license details directly.

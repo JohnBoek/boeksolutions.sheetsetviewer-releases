@@ -1,0 +1,80 @@
+{
+  "schemaVersion": 1,
+  "labels": [
+    {
+      "name": "bug",
+      "color": "d73a4a",
+      "description": "Bestaand gedrag werkt niet zoals bedoeld."
+    },
+    {
+      "name": "enhancement",
+      "color": "a2eeef",
+      "description": "Nieuwe of verbeterde functionaliteit."
+    },
+    {
+      "name": "documentation",
+      "color": "0075ca",
+      "description": "Documentatie of gebruiksinstructies."
+    },
+    {
+      "name": "maintenance",
+      "color": "bfd4f2",
+      "description": "Technisch onderhoud zonder afzonderlijke nieuwe functie."
+    },
+    {
+      "name": "dependencies",
+      "color": "0366d6",
+      "description": "Dependency- of toolchainonderhoud."
+    },
+    {
+      "name": "security",
+      "color": "b60205",
+      "description": "Beveiligingsgerelateerde wijziging; geen gevoelige details publiek plaatsen."
+    },
+    {
+      "name": "release",
+      "color": "0e8a16",
+      "description": "Voorbereiding van een bewuste productrelease."
+    },
+    {
+      "name": "review-build",
+      "color": "5319e7",
+      "description": "Tijdelijke reviewbuild; geen bump van de stabiele productversie."
+    },
+    {
+      "name": "breaking-change",
+      "color": "d93f0b",
+      "description": "Incompatibele wijziging waarvoor migratie of extra uitleg nodig is."
+    },
+    {
+      "name": "blocked",
+      "color": "b60205",
+      "description": "Concrete blokkade; noteer de reden in het issue of de PR."
+    },
+    {
+      "name": "priority:p0",
+      "color": "b60205",
+      "description": "Acuut probleem; direct aandacht nodig."
+    },
+    {
+      "name": "priority:p1",
+      "color": "d93f0b",
+      "description": "Hoge prioriteit."
+    },
+    {
+      "name": "priority:p2",
+      "color": "fbca04",
+      "description": "Normale prioriteit."
+    },
+    {
+      "name": "priority:p3",
+      "color": "c2e0c6",
+      "description": "Lagere prioriteit of later."
+    },
+    {
+      "name": "skip-changelog",
+      "color": "ededed",
+      "description": "Geen gebruikersnotitie nodig; geen belangrijke fixes verbergen."
+    }
+  ]
+}

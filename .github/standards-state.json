@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "version": 3,
+  "source": "https://github.com/JohnBoek/boeksolutions.project-templates",
+  "files": {
+    ".agents/skills/github-workflow/SKILL.md": "c5e83252c3bf3157e2e97ec3dc7de1722366cc59ac1734698c5552bd72d52959",
+    ".claude/skills/github-workflow/SKILL.md": "11b545dcc2acdc0dfe8e5087e176ec6cb3f5527e9255f0f1e685a01af4aae0d0",
+    ".github/GITHUB-WORKFLOW.md": "d58e2876c3b1390fd1e1f72943741ad2e7e2a3064ea1a3c4ea8f10ee122e17c3",
+    ".github/ISSUE_TEMPLATE/bug.yml": "c247774fdb49ed35111cbbb9c538fc8e199c073666aac8d9ca8054f22abaa45c",
+    ".github/ISSUE_TEMPLATE/config.yml": "13064e7bea658e01e718b414fbb7b3b244f36411fe25ee2055c151f7b534547a",
+    ".github/ISSUE_TEMPLATE/feature.yml": "d84ecd4ad59c179e0d8fc65871582ff1b7322f061bfd4546a7e2791f82c473fd",
+    ".github/labels.json": "f34139a0c3417cff0222613c5b7ceaa24c8b2c3b6feb95aa033dd3b9d231faf9",
+    ".github/NAMING.md": "921a854de0bc218557ab160a3e5ef9e2c852ab5a28fcd004a0e1476dffe1e97d",
+    ".github/PROJECT-BOARD.md": "8e0de25e1cc18b718b197db42667701861529be80a850345e2063713863f6974",
+    ".github/pull_request_template.md": "80f5301a5f1df330835af4e1c045c5ec15d7838c0e8c18e6fa24b2ee0cb88c51",
+    ".github/release.yml": "2d04190572712a99cde4a57695bf6a4b180fa4a69891878c8d09707f73cf4bc6",
+    ".github/scripts/Get-ReviewVersion.ps1": "f5d799453ac22dd952fabc9feb892203e732d74abe1f6fb24c58048bbe4659a7",
+    ".github/scripts/Sync-GitHubLabels.ps1": "7e914035faf01a4d08615b41340e582ab42d3f77565918f120fc642ac525a6fb",
+    ".github/VERSIONING.md": "fd420927054cd701b86a95838e7f330101b38d29898df9675398499e057a6999"
+  },
+  "agentBlockHash": "25bd39fa36d1f53778e0e4476e3ef7a090b1eea45f095ef28ef0143e03f2f5ff"
+}

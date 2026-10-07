@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "kind": "release-assets",
+  "githubProject": {
+    "owner": null,
+    "number": null
+  },
+  "versionSource": null,
+  "releaseInstructions": "AGENTS.md"
+}

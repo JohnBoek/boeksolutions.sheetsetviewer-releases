@@ -1,0 +1,26 @@
+name: Bug melden
+description: Beschrijf een reproduceerbaar probleem.
+body:
+  - type: markdown
+    attributes:
+      value: Deel geen sleutels, tokens, persoonsgegevens of ongeanonimiseerde klantbestanden.
+  - type: textarea
+    id: behaviour
+    attributes:
+      label: Wat gaat er mis en wat verwacht je?
+    validations:
+      required: true
+  - type: textarea
+    id: reproduction
+    attributes:
+      label: Hoe is het probleem te reproduceren?
+      description: Voeg zo mogelijk minimale stappen of een veilige testcase toe.
+    validations:
+      required: true
+  - type: input
+    id: environment
+    attributes:
+      label: Versie en omgeving
+      description: Indien bekend, appversie en relevant platform.
+    validations:
+      required: false

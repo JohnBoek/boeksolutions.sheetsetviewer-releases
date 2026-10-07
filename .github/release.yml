@@ -1,0 +1,17 @@
+changelog:
+  exclude:
+    labels:
+      - skip-changelog
+  categories:
+    - title: Compatibiliteitswijzigingen
+      labels: [breaking-change]
+    - title: Beveiliging
+      labels: [security]
+    - title: Nieuwe mogelijkheden
+      labels: [enhancement]
+    - title: Opgeloste problemen
+      labels: [bug]
+    - title: Onderhoud en documentatie
+      labels: [maintenance, dependencies, documentation]
+    - title: Overige verbeteringen
+      labels: ["*"]

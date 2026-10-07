@@ -4,7 +4,9 @@ A Windows desktop tool for viewing AutoCAD Sheet Set (`.dst`) data — read-only
 
 ## ⬇️ Download
 
-Grab the latest installer from **[Releases](../../releases/latest)**. Run the `.exe`, follow the wizard — no admin rights required.
+Grab the latest installer from **[Releases](../../releases/latest)**. Run the `.exe` and follow the wizard. Installation requires administrator rights and installs for all Windows users in `Program Files\BoekSolutions\SheetSetViewer`.
+
+When upgrading a per-user installation from 1.1.1 or earlier, close the Viewer and uninstall that copy in Windows Settings while signed in as that user, then run the new installer. Your settings, license and trial state are retained.
 
 ## What it does
 
