@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.1.3 (2026-10-07)
+
+- Fixed: additional Klingon wording for project properties, drawing locations and support, plus an Afrikaans spelling correction.
+- Fixed: installer build information now identifies the exact released source revision.
+- Includes all v1.1.2 improvements: administrator installation for all Windows users in Program Files, shared shortcuts, migration guidance and retained settings and licenses.
+- Includes the complete ten-language review, immediate language changes in properties and licensing, localized date formats and clearer error messages.
+- Includes the updated BoekSolutions GitHub issue, pull request and release templates.
+
 ## v1.1.2 (2026-10-07)
 
 - Improved: installs for all Windows users in Program Files with administrator rights and shared shortcuts. Existing per-user installations receive clear migration guidance; settings and licenses are retained.
