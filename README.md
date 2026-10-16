@@ -16,6 +16,17 @@ When upgrading a per-user installation from 1.1.1 or earlier, close the Viewer a
 - **Three themes**: Light, Dark, and "Book" (a warm parchment-and-gold look).
 - **Automatic update checks**, so you're always notified when a new version is available.
 
+## User guide
+
+Open **Help → User guide**, press **F1** in the app or a dialog, or use the button
+in Options. The guide is available in Dutch and English and works offline.
+Its layout matches SheetSetEditor, including a contents sidebar, language switch,
+light/dark appearance and print styles.
+
+[Read the guide online](https://boeksolutions.nl/help/sheetsetviewer.html) or
+[download the standalone HTML guide](https://github.com/JohnBoek/boeksolutions.sheetsetviewer-releases/releases/latest/download/Help.html)
+and open it in a browser.
+
 ## Requirements
 
 - Windows 10/11, x64

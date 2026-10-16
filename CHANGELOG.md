@@ -1,5 +1,12 @@
 # Changelog
 
+## v1.1.4 (2026-10-16)
+
+- Added: an offline Dutch and English user guide in the same layout as SheetSetEditor, with a contents sidebar, language switch, light and dark appearance, and print styles.
+- Added: open the guide from Help, the button in Options, or F1 in the main window and dialogs.
+- Improved: practical guidance for browsing sheets and properties, opening drawings, finding nearby PDFs, licensing and troubleshooting.
+- Added: the standalone guide is also available as a release download.
+
 ## v1.1.3 (2026-10-07)
 
 - Fixed: additional Klingon wording for project properties, drawing locations and support, plus an Afrikaans spelling correction.
