@@ -1,5 +1,13 @@
 # Changelog
 
+## v1.2.0 (2026-11-13)
+
+- Added: sign in to SheetSet Viewer with your BoekSolutions account in your browser.
+- Added: a 14-day account trial and up to seven days of offline access after an online license check, within the term of your license or trial.
+- Added: stay signed in on multiple PCs. When Viewer is in use on another PC, the account window shows its reference and lets you try again after it is free.
+- Improved: link an existing purchase to your account using its purchase email. Existing valid Viewer keys remain usable during the transition.
+- Improved: keep viewing and reloading an open sheet set if your account license expires or moves to another PC.
+
 ## v1.1.4 (2026-10-16)
 
 - Added: an offline Dutch and English user guide in the same layout as SheetSetEditor, with a contents sidebar, language switch, light and dark appearance, and print styles.
